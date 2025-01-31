@@ -31,16 +31,6 @@ Welcome to the **Tic-Tac-Toe** game! This is a simple yet fun game built using *
 
 ---
 
-## 🛠️ Installation & Setup
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/Eshwarsai-07/tic-tac-toe.git
-   ```
-2. Open the project folder.
-3. Open `index.html` in any modern web browser.
-
----
-
 ## 📜 Code Overview
 ### HTML (index.html)
 Basic structure of the game board with buttons and message display.
@@ -56,15 +46,8 @@ Basic structure of the game board with buttons and message display.
 - Reset and New Game functionality
 
 --
-
-## 📢 Contributing
-Got ideas or found a bug? Feel free to **fork** this repo and submit a **pull request**! 🎉
----
-
-## 📄 License
-This project is **open-source** and available under the **MIT License**.
-
----
+🙏 Special Thanks
+A special thanks to Shradha Khapra YouTube channel for the amazing tutorial and guidance in building this game. 🎥💡
 
 ## 🌟 Show Your Support
 If you like this project, consider giving it a ⭐ on [GitHub](https://github.com/Eshwarsai-07/tic-tac-toe)!
